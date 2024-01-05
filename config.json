@@ -1,0 +1,9 @@
+{
+  "defaultHomeserver": 2,
+  "homeserverList": [
+    "matrix.org",
+    "lkt.icu",
+    "i.tuan.date"
+  ],
+  "allowCustomHomeservers": true
+}
